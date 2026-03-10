@@ -1,3 +1,7 @@
+# VERY IMPORTANT!!!!
+
+This is a fork of MinecraftConsoles that exists just to remove the version number watermark from the top left corner of the screen. I will not be fixing bugs unless they are directly related to the removal of the watermark. If you would like to submit a bug report, clone the original repo this is a fork of ( https://github.com/smartcmd/MinecraftConsoles ), test it in there, and then open an issue in that repo.
+
 # MinecraftConsoles
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/jrum7HhegA)
@@ -7,9 +11,6 @@
 ## Introduction
 
 This project contains the source code of Minecraft Legacy Console Edition v1.6.0560.0 (TU19) with some fixes and improvements applied.
-
-## Download
-Windows users can download our [Nightly Build](https://github.com/smartcmd/MinecraftConsoles/releases/tag/nightly)! Simply download the `.zip` file and extract it to a folder where you'd like to keep the game. You can set your username in `username.txt` (you'll have to make this file)
 
 ## Platform Support
 
