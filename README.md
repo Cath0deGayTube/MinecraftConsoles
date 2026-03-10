@@ -1,6 +1,6 @@
 # VERY IMPORTANT!!!!
 
-This is a fork of MinecraftConsoles that exists just to remove the version number watermark from the top left corner of the screen. I will not be fixing bugs unless they are directly related to the removal of the watermark. If you would like to submit a bug report, clone the original repo this is a fork of ( https://github.com/smartcmd/MinecraftConsoles ), test it in there, and then open an issue in that repo.
+This is a fork of MinecraftConsoles that exists just to remove the version number watermark from the top left corner of the screen. I will not be fixing bugs unless they are directly related to the removal of the watermark. If you would like to submit a bug report, clone the original repo this is a fork of ( https://github.com/smartcmd/MinecraftConsoles ), test it in there, and then open an issue in that repo with screenshots from their build that include their watermark.
 
 # MinecraftConsoles
 
