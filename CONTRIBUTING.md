@@ -1,3 +1,6 @@
+# Important note
+If you would like to contribute new features or anything not related to bulid watermarks, please do so to https://github.com/smartcmd/MinecraftConsoles. However, if you have a contribution you would like to make regarding the watermark, i.e. making it only present in debug builds, or toggleable via an option in a configuration file, I would welcome this! :D
+
 # Scope of Project
 At the moment, this project's scope is generally limited outside of adding new content to the game (blocks, mobs, items). We are currently prioritizing stability, quality of life, and platform support over these things.
 
