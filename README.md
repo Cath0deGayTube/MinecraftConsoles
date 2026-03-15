@@ -1,4 +1,9 @@
 ![Legacy Edition Banner](.github/banner.png)
+
+# VERY IMPORTANT!!!!
+This is a fork of MinecraftConsoles that exists just to remove the version number watermark from the top left corner of the screen. I will not be fixing bugs unless they are directly related to the removal of the watermark. If you would like to submit a bug report, clone the original repo this is a fork of ( https://github.com/smartcmd/MinecraftConsoles ), test it in there, and then open an issue in that repo with screenshots from their build that include their watermark.
+
+Thank you to GEZawaTT on GitHub for infomration on this.
 # MinecraftConsoles (Legacy Console Edition)
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/jrum7HhegA)
@@ -10,9 +15,9 @@ The current goal of MinecraftConsoles is to be a multi-platform base for further
 See our our [Contributor's Guide](./CONTRIBUTING.md) for more information on the goals of this project.
 
 ## Download
-Windows users can download our [Nightly Build](https://github.com/smartcmd/MinecraftConsoles/releases/tag/nightly)! Simply download the `.zip` file and extract it to a folder where you'd like to keep the game. You can set your username in `username.txt` (you'll have to make this file)
+Windows users can download our [Nightly Build](https://github.com/Cath0deGayTube/MinecraftConsoles/releases/tag/nightly)! Simply download the `.zip` file and extract it to a folder where you'd like to keep the game. You can set your username in `username.txt` (you'll have to make this file)
 
-If you're looking for Dedicated Server software, download its [Nightly Build here](https://github.com/smartcmd/MinecraftConsoles/releases/tag/nightly-dedicated-server). Similar instructions to the client more or less, though see further down in this README for more info on that.
+If you're looking for Dedicated Server software, download its [Nightly Build here](https://github.com/Cath0deGayTube/MinecraftConsoles/releases/tag/nightly-dedicated-server). Similar instructions to the client more or less, though see further down in this README for more info on that.
 
 ## Platform Support
 
@@ -221,4 +226,4 @@ Would you like to contribute to this project? Please read our [Contributor's Gui
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=smartcmd/MinecraftConsoles&type=date&legend=top-left)](https://www.star-history.com/?spm=a2c6h.12873639.article-detail.7.7b9d7fabjNxTRk#smartcmd/MinecraftConsoles&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/image?repos=Cath0deGayTube/MinecraftConsoles&type=date&legend=top-left)](https://www.star-history.com/?repos=Cath0deGayTube%2FMinecraftConsoles&type=date&legend=top-left)
